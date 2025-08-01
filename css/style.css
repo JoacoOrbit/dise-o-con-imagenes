@@ -1,0 +1,37 @@
+body {
+    padding: 10px;
+}
+
+div {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+     align-items: center; /* no es necesario, pero si hubiera imágenes de otro tamaño si */
+}
+
+img {
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#primera {
+    background-color: yellow;
+    
+}
+#segunda {
+    background-color:aquamarine;
+}
+#tercera {
+    background-color: indianred;
+}
+#cuarta {
+    background-color:lightgreen;
+    color:rgb(35, 71, 35);
+    height: auto;
+    padding: 10px;
+    font-size: 24px;
+}
